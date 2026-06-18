@@ -1,2 +1,3 @@
-# TPX3
-Physics Lab Advanced Experiments Code Notebook
+# QCR
+Physics Lab Advanced Experiments Code Notebook 
+BB84 protocol implementation in Cirq
